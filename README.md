@@ -21,6 +21,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [.NET](#net)
   - [Others](#others)
 - [Languages](#languages)
+  - [Elm](#elm)
   - [Esoteric](#esoteric)
   - [Go](#go)
   - [JavaScript-family](#javascript-family)
@@ -189,6 +190,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [go-web-app – Quickly setup Go + WebAssembly frontend apps](https://github.com/talentlessguy/go-web-app)
 
 ## Languages
+
+### Elm
+- [fodder - Elm to Rust compiler with wasm-bindgen support](https://github.com/dullbananas/fodder)
 
 ### Esoteric
 - [funge.js - A Befunge JIT](https://github.com/serprex/befunge)
